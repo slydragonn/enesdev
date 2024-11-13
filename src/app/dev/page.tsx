@@ -1,7 +1,7 @@
 'use client'
 import CodeBox from "@/components/code-box";
 import CONTENT from "@/content";
-import { Box, Button, HStack, Stack, Text, Flex, Heading, Badge, Tabs } from "@chakra-ui/react";
+import { Box, Button, HStack, Stack, Flex, Heading, Badge, Tabs } from "@chakra-ui/react";
 import { useEffect, useRef, useState } from "react";
 import { FaGithub } from "react-icons/fa";
 import { IoArrowBackOutline } from "react-icons/io5";
