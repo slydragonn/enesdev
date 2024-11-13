@@ -1,0 +1,14 @@
+pre {
+    width: calc(100vw - 80px);
+    max-width: 650px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-wrap: wrap;
+    overflow-x: hidden;
+}
+
+@media screen and (max-width: 750px) {
+    pre {
+        width: calc(100vw - 40px);
+    }
+}
