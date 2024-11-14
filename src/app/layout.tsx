@@ -4,7 +4,7 @@ import "@/styles/global.css"
 
 export const metadata: Metadata = {
   title: 'English Essencials for Developers',
-  description: 'English Essencials for Developers',
+  description: 'English Essentials for Developers',
 }
 
 export default function RootLayout({
